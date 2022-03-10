@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: url("../public/fonts/FontGilroy/Gilroy-Medium.otf");
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy-SemiBold";
+  src: url("../public/fonts/FontGilroy/Gilroy-SemiBold.otf");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
